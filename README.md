@@ -1,6 +1,6 @@
 <p align="center">
     <a href="./public/static/app/images/logo.png" target="_blank">
-        <img width="300" src="./public/static/app/images/logo.png">
+        <img width="300" src="https://ae01.alicdn.com/kf/Ub0b1d476c0ae445f9146596597157a31l.png">
     </a>
 </p>
 
@@ -16,8 +16,8 @@
 [![Join the chat at https://gitter.im/wisp-x/lsky-pro](https://badges.gitter.im/wisp-x/lsky-pro.svg)](https://gitter.im/wisp-x/lsky-pro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-![homepage.png](./public/static/app/images/demo/1.png)
-![homepage.png](./public/static/app/images/demo/2.png)
+![homepage.png](https://ae01.alicdn.com/kf/Ud2795e494b0e4be2a86b35ea0cf10cc4N.png)
+![homepage.png](https://ae01.alicdn.com/kf/U1e1e1782f0024a6c81f1967377fd23679.png)
 
 主要特性
 ---
